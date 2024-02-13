@@ -2,6 +2,16 @@
   "$type": "Sungero.Metadata.EntityMetadata, Sungero.Metadata",
   "NameGuid": "777801d5-52c2-4f93-8d21-6bdfd81dd813",
   "Name": "TypeRequest",
+  "Actions": [
+    {
+      "NameGuid": "4ef4b074-3fb0-4f5a-8ea7-6f47ddcec1e2",
+      "Name": "LinkDocument",
+      "ActionArea": "Card",
+      "GenerateHandler": true,
+      "LargeIconName": null,
+      "SmallIconName": null
+    }
+  ],
   "BaseGuid": "04581d26-0780-4cfd-b3cd-c2cafc5798b0",
   "CanBeNavigationPropertyType": true,
   "Code": "TypeRequest",
