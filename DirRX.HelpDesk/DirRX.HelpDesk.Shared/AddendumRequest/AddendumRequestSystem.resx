@@ -61,4 +61,7 @@
   <data name="DisplayName" xml:space="preserve">
     <value>Addendum request </value>
   </data>
+  <data name="Property_Employee" xml:space="preserve">
+    <value>Employee</value>
+  </data>
 </root>
